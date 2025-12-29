@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Flazu Bypass V1
-// @namespace    Bypass Free
+// @namespace    Bypass Free (credit work.ink from Dyrian)
 // @version      0.2.0
 // @author       Flazu
 // @description  Auto Bypass Luarmor
