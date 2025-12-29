@@ -3,7 +3,7 @@
 // @namespace    Bypass Free
 // @version      0.2.0
 // @author       Flazu
-// @description  Auto-handle Luarmor with stealth ad blocking & anti-detection
+// @description  Auto Bypass Luarmor
 // @match        https://*.luarmor.net/*
 // @match        https://*.luarmor.com/*
 // @match        https://*.linkvertise.com/*
