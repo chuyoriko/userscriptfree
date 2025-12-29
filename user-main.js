@@ -28,8 +28,6 @@
 // @grant        GM_notification
 // @grant        GM_setClipboard
 // @run-at       document-start
-
-// @updateURL    https://github.com/chuyoriko/userscriptfree/refs/heads/main/script.js
-// @require      https://github.com/chuyoriko/userscriptfree/refs/heads/main/script.js
+// @updateURL    https://raw.githubusercontent.com/chuyoriko/userscriptfree/main/user-main.js
+// @require      https://raw.githubusercontent.com/chuyoriko/userscriptfree/main/script.js
 // ==/UserScript==
-
