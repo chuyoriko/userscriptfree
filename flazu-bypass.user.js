@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Flazu Bypass V1
-// @namespace    Bypass Free (credit work.ink from Dyrian)
-// @version      0.2.0
+// @namespace    Bypass Free
+// @version      0.2.2
 // @author       Flazu
-// @description  Auto Bypass Luarmor
+// @description  Auto-handle Luarmor with stealth ad blocking & anti-detection
 // @match        https://*.luarmor.net/*
 // @match        https://*.luarmor.com/*
 // @match        https://*.linkvertise.com/*
@@ -28,6 +28,15 @@
 // @grant        GM_notification
 // @grant        GM_setClipboard
 // @run-at       document-start
-// @updateURL    https://raw.githubusercontent.com/chuyoriko/userscriptfree/main/user-main.js
-// @require      https://raw.githubusercontent.com/chuyoriko/userscriptfree/main/script.js
 // ==/UserScript==
+
+function key() {
+    return ''; // Your Access Key discord server: https://discord.gg/bfkXHqUec2
+}
+
+function config() {
+    return {
+        luarmor: false, // Luarmor Automation
+
+    };
+}
