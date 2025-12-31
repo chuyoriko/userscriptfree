@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Flazu Bypass V1
 // @namespace    Bypass Free
-// @version      0.2.5
+// @version      0.2.6
 // @author       Flazu
 // @description  Auto-handle Luarmor with stealth ad blocking & anti-detection
 // @match        https://*.luarmor.net/*
@@ -34,12 +34,13 @@
 // ==/UserScript==
 
 function key() {
-    return ''; // Your Access Key discord server: https://discord.gg/bfkXHqUec2
+    return 'set-key-here'; // Your Access Key
 }
 
 function config() {
     return {
         luarmor: true, // Luarmor Automation
+        timer: 25, // Cooldown sec
 
     };
 }
