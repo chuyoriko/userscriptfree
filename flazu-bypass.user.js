@@ -39,7 +39,7 @@ function key() {
 
 function config() {
     return {
-        luarmor: false, // Luarmor Automation
+        luarmor: true, // Luarmor Automation
 
     };
 }
