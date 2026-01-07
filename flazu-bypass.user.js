@@ -26,6 +26,7 @@
 // @match        https://rekonise.com/*
 // @match        https://*.rekonise.com/*
 // @match        https://lockr.so/*
+// @match        https://spdmteam.com/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_openInTab
 // @grant        GM_notification
