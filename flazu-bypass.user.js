@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Flazu Bypass V1
 // @namespace    Bypass Free
-// @version      0.2.9
+// @version      0.3.0
 // @author       Flazu
 // @description  Auto-handle Luarmor with stealth ad blocking & anti-detection
 // @match        https://*.luarmor.net/*
