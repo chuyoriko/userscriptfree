@@ -27,6 +27,9 @@
 // @match        https://*.rekonise.com/*
 // @match        https://lockr.so/*
 // @match        https://spdmteam.com/*
+// @match        https://auth.platorelay.com/*
+// @match        https://*.platorelay.com/*
+// @match        https://platoboost.app/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_openInTab
 // @grant        GM_notification
