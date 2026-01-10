@@ -46,7 +46,7 @@ function key() {
 function config() {
     return {
         luarmor: true, // Luarmor Automation
-        timer: 25, // Cooldown sec
+        timer: 0, // Cooldown sec
 
     };
 }
