@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Flazu Bypass V1
 // @namespace    Bypass Free
-// @version      1.0.0
+// @version      1.0.1
 // @author       Flazu
 // @description  Auto-handle Luarmor with stealth ad blocking & anti-detection
 // @match        https://*.luarmor.net/*
@@ -30,6 +30,7 @@
 // @match        https://auth.platorelay.com/*
 // @match        https://*.platorelay.com/*
 // @match        https://platoboost.app/*
+// @match        https://kys.linkvertise.lol/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_openInTab
 // @grant        GM_notification
